@@ -17,6 +17,13 @@
   },
   "homepage": "https://github.com/ariaveronique/qyburn#readme",
   "dependencies": {
-    "aws-sdk": "^2.466.0"
+    "aws-sdk": "^2.466.0",
+    "discord.js": "^11.5.1",
+    "node-opus": "^0.3.2",
+    "sodium": "^3.0.2",
+    "uuid": "^3.3.2",
+    "uws": "^100.0.1",
+    "zlib-sync": "^0.1.4",
+    "zucc": "^0.1.2"
   }
 }
