@@ -1,2 +1,3 @@
 awscreds.txt
 node_modules/
+.aws/
